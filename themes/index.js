@@ -367,6 +367,12 @@ export const themes = {
     text_color: "e0def4",
     bg_color: "191724",
   },
+  country_ng: {
+    title_color: "ffffff",
+    icon_color: "fffffff",
+    text_color: "fffffff",
+    bg_color: "191724",
+  },
 };
 
 export default themes;
